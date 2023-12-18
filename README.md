@@ -90,7 +90,7 @@ java -jar build/libs/Mancala.jar
 To run the program from class files:
 java -cp build/classes/java/main ui.TextUI
 ```
-* include the expected output
+* include the expected output <br>
 Player one enter your name:
 
 
