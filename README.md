@@ -1,3 +1,9 @@
+## Important Note
+
+This was my second assignment for my Object Oriented Programming class that I took in second year university. <br>
+This assignment took me about 20 hours to complete from scratch, and I recieved a grade of 96% on the programming portion (This does not include any penalties or bonus marks that were given to me) <br>
+You do not have my permission to take any code to be used in other academic assignments
+
 # Project Title
 
 Mancala
